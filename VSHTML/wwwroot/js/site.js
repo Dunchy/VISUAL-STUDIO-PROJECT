@@ -14,6 +14,6 @@ document.addEventListener("DOMContentLoaded", function () {
         
         setTimeout(() => {
             textElement.style.opacity = "1";
-        }, 100);
+        }, 1000);
     }
 });
